@@ -1,0 +1,8 @@
+### Istio
+
+##Installation
+
+Version according to ur installation
+```
+> export PATH="$PATH:/Users/muncode/istio-1.0.6/bin"
+```
